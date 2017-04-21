@@ -507,3 +507,40 @@ footer {
 .dash {
 	padding:0 5px 0 5px;
 }
+
+/* --------------- detailserv --------------- */
+.topServ {
+	margin-bottom: 80px;
+}
+.serviceDetail {
+	color: #6E6E6E;
+	font-size: 15px;
+}
+
+
+.detailServ {
+	height: 300px;
+	padding-top: 40px;
+}
+
+.detailServbg {
+	width: 100%;
+	background-color: #F7F7F7;
+	height: 320px;
+	padding-top: 40px;
+}
+
+.detailServbg h6,.detailServ h6  {
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.detailServbg p,.detailServ p {
+	font-size: 15px;
+	color: #7B7B7B;
+}
+
+.detailServbg a,.detailServ a {
+	padding-top: 40px;
+
+}
