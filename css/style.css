@@ -114,8 +114,8 @@ head {
 	color: #2C5AA0;
 	font-size: 14px;
 	text-shadow: 0.1em 0.1em 0.05em #A5B3D0;
-	border-bottom: 2px dashed #2E5CA1;
-	width: 113px;
+	border-bottom: 1px dashed #2E5CA1;
+	width: 112px;
 }
 .mail {
 	margin: 0 0px 0 35px;
@@ -174,7 +174,6 @@ head {
 		text-decoration: none;
 		font-size:15px;
 		color: #242424;
-		text-shadow: 0.1em 0.1em 0.05em #777777;
 		text-transform:uppercase;
 	}
 	.arrow {
