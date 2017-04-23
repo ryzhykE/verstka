@@ -280,7 +280,10 @@ head {
 	height: 280px;
 	padding-top: 40px;
 }
-.trust h5 {
+.trustAbout {
+	padding-top: 40px;
+}
+.trust h5 ,.trustAbout h5{
 	font-size:30px;
 	font-weight: bold;
 	font-family: 'Open Sans', "Segoe UI Semibold";
@@ -288,7 +291,7 @@ head {
 	margin-bottom: 5px;
 }
 
-.trust p {
+.trust p , .trustAbout p{
 	font-size:16px;
 	font-family: 'Open Sans', "Segoe UI Semibold";
 	text-align: center;
